@@ -1,0 +1,4 @@
+# 阻止所有文件
+*
+!Notes/
+!.gitignore
