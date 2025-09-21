@@ -1,4 +1,7 @@
 # 阻止所有文件
 *
+# 但不排除 Notes/ 文件夹及其内部所有文件
 !Notes/
+!Notes/**
+# 不排除 .gitignore 自身
 !.gitignore
